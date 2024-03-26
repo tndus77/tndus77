@@ -14,11 +14,7 @@
 - KUSITMS 26기 - 마음 챙김 일기 서비스 나날 (KUSITMS 밋업데이 대상 (1등)), 2022.04 - 2022.12
 - KUSITMS 25기 - 외출 전/후 전 과정 돕는 앱 서비스, 퍼펙트, 2022.04 - 2022.12
 - 숙명여자대학교 수강 신청 사이트 제작, 2022.06
-- 숙명여자대학교 단독 앱 서비스 도입 (시스템종합설계 (1등)), 2022.03 - 2022.07
-- 헬멧 탐지 킥보드 애플리케이션, 2021.07 - 2021.08
-- Avalon 애플리케이션, 2021.07 - 2021.08
-- 당근 마켓 클론 코딩, 2021.07 - 2021.08
-- 가상 소개팅 애플리케이션, 2021.07 - 2021.08
+- 숙명여자대학교 커뮤니티 앱 서비스 (시스템종합설계 (1등)), 2022.03 - 2022.07
 
   
 ## Skills
@@ -42,3 +38,5 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
 ![tndus77's github stats](https://github-readme-stats.vercel.app/api?username=tndus77&show_icons=true) 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tndus7270)](https://solved.ac/tndus7270)
