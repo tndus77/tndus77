@@ -2,7 +2,7 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">](tndus77@sookmyung.ac.kr)
 
 ## Activities
-- Makeworks SW Engineer
+- Makeworks SW Engineer (외주)
 - Roubit SW Engineer (전)
 - 한국대학생IT경영학회 KUSITMS 25~26기, 2022.04 - 2022.12
 - KAIST 몰입캠프 12기, 2021.07 - 2021.08
