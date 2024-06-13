@@ -2,13 +2,13 @@
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">](tndus77@sookmyung.ac.kr)
 
 ## Activities
-- Makeworks SW Engineer (외주)
 - Roubit SW Engineer (전)
 - 한국대학생IT경영학회 KUSITMS 25~26기, 2022.04 - 2022.12
 - KAIST 몰입캠프 12기, 2021.07 - 2021.08
 - COMCODE mentee, 2021.04
 
 ## Project
+- 독거노인 고독사 방지시스템, 2023.12 ~ 2024.7
 - 루빗 & 피핏 유지보수 [📱Roubit](https://apps.apple.com/kr/app/%EB%A3%A8%EB%B9%97-%EA%B7%80%EC%97%AC%EC%9A%B4-%EB%A3%A8%ED%8B%B4-%EC%8A%B5%EA%B4%80-%ED%95%A0-%EC%9D%BC-%EA%B4%80%EB%A6%AC/id1527382961) & [📱Pipit](https://apps.apple.com/kr/app/pipit-%ED%94%BC%ED%95%8F-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%EC%95%84%EC%B9%A8-%ED%83%80%EC%9E%84%EC%8A%A4%ED%83%AC%ED%94%84-%EC%95%8C%EB%9E%8C/id1631253620), 2022.09 - 2023.08
 - 나날 배포 [📱APP](https://apps.apple.com/kr/app/%EB%82%98%EB%82%A0-nanal/id6446810844), 2022.11 - 2023.04
 - KUSITMS 26기 - 마음 챙김 일기 서비스 나날 (KUSITMS 밋업데이 대상 (1등)), 2022.04 - 2022.12
