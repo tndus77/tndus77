@@ -1,6 +1,6 @@
 [<img src="https://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=blogger&logoColor=white">](https://new-anecdote.tistory.com/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">](tndus77@sookmyung.ac.kr)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sooyeon-park-57a46825b/)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/sooyeon-park-57a46825b/)
 
 
 ## Activities
