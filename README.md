@@ -20,6 +20,9 @@
 - 숙명여자대학교 커뮤니티 앱 서비스 (시스템종합설계 (1등)), 2022.03 - 2022.07
 -->
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/tndus77?pet-id=2" width="1000" height="120"/>
+</a>
   
 ## Skills
 <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
